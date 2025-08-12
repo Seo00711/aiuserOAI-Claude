@@ -1,0 +1,35 @@
+{
+    "author": [
+        "Claude Assistant"
+    ],
+    "name": "GPT5Assistant",
+    "short": "Production-ready GPT-5 assistant cog for Red-DiscordBot",
+    "description": "A comprehensive AI assistant cog that replaces aiuser with modern GPT-5 capabilities including voice transcription, image analysis, batch file processing, dynamic variables, and advanced conversation management.",
+    "tags": [
+        "ai",
+        "gpt5",
+        "assistant",
+        "openai",
+        "voice",
+        "image",
+        "vision",
+        "files",
+        "conversation",
+        "aiuser"
+    ],
+    "requirements": [
+        "openai>=2.0.0",
+        "httpx",
+        "tenacity",
+        "aiofiles",
+        "tiktoken"
+    ],
+    "min_bot_version": "3.5.0",
+    "min_python_version": [3, 11, 0],
+    "end_user_data_statement": "This cog stores per-guild configuration settings and conversation history temporarily for context management. No personal data is permanently stored.",
+    "install_msg": "Thank you for installing GPT5Assistant\! 🤖\n\nTo get started:\n1. Set your OpenAI API key: `[p]set api openai api_key,<your_key>`\n2. Enable the cog in your server: `[p]gpt5 config enable true`\n3. Configure channels: `[p]gpt5 config channels`\n\nType `[p]help gpt5` for all commands\!\n\nFeatures:\n✅ Voice transcription\n✅ Image analysis & generation\n✅ Batch file processing\n✅ Dynamic variables\n✅ Advanced conversation management\n✅ aiuser compatibility",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
+EOF < /dev/null

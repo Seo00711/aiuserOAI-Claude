@@ -1,0 +1,6 @@
+openai>=2.0.0
+httpx
+tenacity
+aiofiles
+tiktoken
+EOF < /dev/null
